@@ -1,0 +1,10 @@
+outputs/*
+!outputs/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+data/derived/*
+!data/derived/.gitkeep
+vendor/
+__pycache__/
+.env
+.env.*

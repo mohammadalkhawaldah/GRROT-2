@@ -1,0 +1,659 @@
+[
+  {
+    "name": "ros-humble-urdfdom-py",
+    "version": "1.2.1-1jammy.20260908.001136",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-urdfdom-py/ros-humble-urdfdom-py_1.2.1-1jammy.20260908.001136_arm64.deb",
+    "size": 34016,
+    "sha256": "29e7c490bb4c8c9d79bbbb30067e41c49ae423afbb7cfb2631369cfe333b5734",
+    "filename": "ros-humble-urdfdom-py_1.2.1-1jammy.20260908.001136_arm64.deb"
+  },
+  {
+    "name": "ros-humble-hardware-interface",
+    "version": "2.54.3-1jammy.20261005.183500",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-hardware-interface/ros-humble-hardware-interface_2.54.3-1jammy.20261005.183500_arm64.deb",
+    "size": 214334,
+    "sha256": "ff5e99a392557cccee9992e52f1aa3bebfb40c8f0a13e97c312a3546423bc110",
+    "filename": "ros-humble-hardware-interface_2.54.3-1jammy.20261005.183500_arm64.deb"
+  },
+  {
+    "name": "ros-humble-joint-state-publisher-gui",
+    "version": "2.4.0-1jammy.20260908.003345",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-joint-state-publisher-gui/ros-humble-joint-state-publisher-gui_2.4.0-1jammy.20260908.003345_arm64.deb",
+    "size": 15528,
+    "sha256": "1a30e8e0ae8f9f02a133789d3067c12021386832c5a781dcab02cdfc58c7612d",
+    "filename": "ros-humble-joint-state-publisher-gui_2.4.0-1jammy.20260908.003345_arm64.deb"
+  },
+  {
+    "name": "ros-humble-picknik-reset-fault-controller",
+    "version": "0.0.3-1jammy.20261005.193121",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-picknik-reset-fault-controller/ros-humble-picknik-reset-fault-controller_0.0.3-1jammy.20261005.193121_arm64.deb",
+    "size": 63642,
+    "sha256": "0d4fe4e570c22811edad6130d6f9536cbc9c8d9740cb0272f8f75c6aef71f12e",
+    "filename": "ros-humble-picknik-reset-fault-controller_0.0.3-1jammy.20261005.193121_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-simple-controller-manager",
+    "version": "2.5.10-1jammy.20261005.205608",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-simple-controller-manager/ros-humble-moveit-simple-controller-manager_2.5.10-1jammy.20261005.205608_arm64.deb",
+    "size": 95346,
+    "sha256": "a46bd09b6a75435feaeb245d6ffd0b6018118aaf506b88f9fdffc427486a1b5b",
+    "filename": "ros-humble-moveit-simple-controller-manager_2.5.10-1jammy.20261005.205608_arm64.deb"
+  },
+  {
+    "name": "ros-humble-octomap",
+    "version": "1.9.8-1jammy.20260224.213035",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-octomap/ros-humble-octomap_1.9.8-1jammy.20260224.213035_arm64.deb",
+    "size": 218926,
+    "sha256": "4a12aacf6627cbfaa5a7a2a0373b157bcb0877719189943622677baaf9934909",
+    "filename": "ros-humble-octomap_1.9.8-1jammy.20260224.213035_arm64.deb"
+  },
+  {
+    "name": "python-babel-localedata",
+    "version": "2.8.0+dfsg.1-7",
+    "architecture": "all",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/main/p/python-babel/python-babel-localedata_2.8.0%2bdfsg.1-7_all.deb",
+    "size": 4982220,
+    "sha256": "f441154253d9ab255ce1541b37ec8cf191311d87dba3b36abe9574c8e6c8fd61",
+    "filename": "python-babel-localedata_2.8.0+dfsg.1-7_all.deb"
+  },
+  {
+    "name": "ros-humble-moveit-planners",
+    "version": "2.5.10-1jammy.20261005.224927",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-planners/ros-humble-moveit-planners_2.5.10-1jammy.20261005.224927_arm64.deb",
+    "size": 6668,
+    "sha256": "9f7eb2e64c4eaf7b46f8a69c36c98af6419a86c4a24936dbb64de5328bb446cd",
+    "filename": "ros-humble-moveit-planners_2.5.10-1jammy.20261005.224927_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-setup-srdf-plugins",
+    "version": "2.5.10-1jammy.20261005.230111",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-setup-srdf-plugins/ros-humble-moveit-setup-srdf-plugins_2.5.10-1jammy.20261005.230111_arm64.deb",
+    "size": 292312,
+    "sha256": "a56a4397fb7ee3c0137c43ec30f5ec086d4d578d582aa77327b4a81d92534773",
+    "filename": "ros-humble-moveit-setup-srdf-plugins_2.5.10-1jammy.20261005.230111_arm64.deb"
+  },
+  {
+    "name": "ros-humble-geometric-shapes",
+    "version": "2.3.4-1jammy.20260908.012156",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-geometric-shapes/ros-humble-geometric-shapes_2.3.4-1jammy.20260908.012156_arm64.deb",
+    "size": 97312,
+    "sha256": "a9ba2f31e648ce2989eadba9a1f92611316792a772a62fe0b5d0eabd4d673af1",
+    "filename": "ros-humble-geometric-shapes_2.3.4-1jammy.20260908.012156_arm64.deb"
+  },
+  {
+    "name": "ros-humble-kortex-description",
+    "version": "0.2.3-1jammy.20261005.201222",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-kortex-description/ros-humble-kortex-description_0.2.3-1jammy.20261005.201222_arm64.deb",
+    "size": 7906908,
+    "sha256": "b34d7c853a3e29445d2ca48a9e01dd21bf574c7271c3856c3a90d62f2647af94",
+    "filename": "ros-humble-kortex-description_0.2.3-1jammy.20261005.201222_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-ros-warehouse",
+    "version": "2.5.10-1jammy.20261005.213601",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-ros-warehouse/ros-humble-moveit-ros-warehouse_2.5.10-1jammy.20261005.213601_arm64.deb",
+    "size": 414202,
+    "sha256": "e260ddb06d5c92114fb295cd7763367dd2c1613afe7311e9846ffc118ace526f",
+    "filename": "ros-humble-moveit-ros-warehouse_2.5.10-1jammy.20261005.213601_arm64.deb"
+  },
+  {
+    "name": "ros-humble-chomp-motion-planner",
+    "version": "2.5.10-1jammy.20261005.205613",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-chomp-motion-planner/ros-humble-chomp-motion-planner_2.5.10-1jammy.20261005.205613_arm64.deb",
+    "size": 94140,
+    "sha256": "2978e44f29d77fe34f4050ecc83f393ac9c7c1c4c2ebc5b068fd9b53ceeaa9fc",
+    "filename": "ros-humble-chomp-motion-planner_2.5.10-1jammy.20261005.205613_arm64.deb"
+  },
+  {
+    "name": "ros-humble-ruckig",
+    "version": "0.9.2-1jammy.20260306.232818",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-ruckig/ros-humble-ruckig_0.9.2-1jammy.20260306.232818_arm64.deb",
+    "size": 69520,
+    "sha256": "af833c7edac091be8aaef8abe7c0229dad9e6a9a66d3d10458aa74fbc3a2fbe4",
+    "filename": "ros-humble-ruckig_0.9.2-1jammy.20260306.232818_arm64.deb"
+  },
+  {
+    "name": "ros-humble-gz-ros2-control",
+    "version": "0.7.21-1jammy.20261005.201857",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-gz-ros2-control/ros-humble-gz-ros2-control_0.7.21-1jammy.20261005.201857_arm64.deb",
+    "size": 222648,
+    "sha256": "de1756fa77f3f64ecaa9b69907df244a3174cadbf0a8c59a73096a7db2cb2391",
+    "filename": "ros-humble-gz-ros2-control_0.7.21-1jammy.20261005.201857_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-ros-robot-interaction",
+    "version": "2.5.10-1jammy.20261005.213352",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-ros-robot-interaction/ros-humble-moveit-ros-robot-interaction_2.5.10-1jammy.20261005.213352_arm64.deb",
+    "size": 162104,
+    "sha256": "1dfabbbb7e387e2e54a4b7d9d1b3cc9e7a7324a1912631910a53e511b6843084",
+    "filename": "ros-humble-moveit-ros-robot-interaction_2.5.10-1jammy.20261005.213352_arm64.deb"
+  },
+  {
+    "name": "ros-humble-joint-state-publisher",
+    "version": "2.4.0-1jammy.20260908.003101",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-joint-state-publisher/ros-humble-joint-state-publisher_2.4.0-1jammy.20260908.003101_arm64.deb",
+    "size": 16090,
+    "sha256": "b79f2c2ac8ce8473f88bd67cd39ebc73ccbdb3a30eea492da5941906b19fb56e",
+    "filename": "ros-humble-joint-state-publisher_2.4.0-1jammy.20260908.003101_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-setup-controllers",
+    "version": "2.5.10-1jammy.20261005.230111",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-setup-controllers/ros-humble-moveit-setup-controllers_2.5.10-1jammy.20261005.230111_arm64.deb",
+    "size": 153262,
+    "sha256": "490af6d1c426f52aa95c59fba832c329cb86635bd5e678af55bc564b2b903a46",
+    "filename": "ros-humble-moveit-setup-controllers_2.5.10-1jammy.20261005.230111_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-ros-move-group",
+    "version": "2.5.10-1jammy.20261005.220210",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-ros-move-group/ros-humble-moveit-ros-move-group_2.5.10-1jammy.20261005.220210_arm64.deb",
+    "size": 330014,
+    "sha256": "b8618a69878e6edc19c654b7b7987990259f9add1f91f3eb956cc5f58a315bef",
+    "filename": "ros-humble-moveit-ros-move-group_2.5.10-1jammy.20261005.220210_arm64.deb"
+  },
+  {
+    "name": "ros-humble-realtime-tools",
+    "version": "2.15.1-1jammy.20260908.033332",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-realtime-tools/ros-humble-realtime-tools_2.15.1-1jammy.20260908.033332_arm64.deb",
+    "size": 43416,
+    "sha256": "4af5f3aea067af377c25aca319748a13883416aa3967d30e35ede2b8ec563191",
+    "filename": "ros-humble-realtime-tools_2.15.1-1jammy.20260908.033332_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-kinematics",
+    "version": "2.5.10-1jammy.20261005.213745",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-kinematics/ros-humble-moveit-kinematics_2.5.10-1jammy.20261005.213745_arm64.deb",
+    "size": 443604,
+    "sha256": "d2c2b02d1b3e7009e57dfeef195c82d8136c4894609e28a8c7f3208a99ecb29c",
+    "filename": "ros-humble-moveit-kinematics_2.5.10-1jammy.20261005.213745_arm64.deb"
+  },
+  {
+    "name": "ros-humble-robotiq-description",
+    "version": "0.0.1-1jammy.20260916.165716",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-robotiq-description/ros-humble-robotiq-description_0.0.1-1jammy.20260916.165716_arm64.deb",
+    "size": 807838,
+    "sha256": "34b0227b8a9f271cb5b17441e9d02bd63424eea05801422714d3915df988b4f0",
+    "filename": "ros-humble-robotiq-description_0.0.1-1jammy.20260916.165716_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-planners-chomp",
+    "version": "2.5.10-1jammy.20261005.210141",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-planners-chomp/ros-humble-moveit-planners-chomp_2.5.10-1jammy.20261005.210141_arm64.deb",
+    "size": 36208,
+    "sha256": "c33f97c99a8bd4c0c1d5ca9ac51bfd43ac008ea3a46c96f25f4ea53b869f66ac",
+    "filename": "ros-humble-moveit-planners-chomp_2.5.10-1jammy.20261005.210141_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-planners-ompl",
+    "version": "2.5.10-1jammy.20261005.214250",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-planners-ompl/ros-humble-moveit-planners-ompl_2.5.10-1jammy.20261005.214250_arm64.deb",
+    "size": 314654,
+    "sha256": "e4d8a52c8b877a263b552fb7173460c932dc257b5507307c92b795dc5a71c848",
+    "filename": "ros-humble-moveit-planners-ompl_2.5.10-1jammy.20261005.214250_arm64.deb"
+  },
+  {
+    "name": "ros-humble-filters",
+    "version": "2.2.2-1jammy.20260908.012236",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-filters/ros-humble-filters_2.2.2-1jammy.20260908.012236_arm64.deb",
+    "size": 70646,
+    "sha256": "c1802ec36743498e12ef1ada5d555990376bbeba304f34087e4ee671f8248aea",
+    "filename": "ros-humble-filters_2.2.2-1jammy.20260908.012236_arm64.deb"
+  },
+  {
+    "name": "ros-humble-warehouse-ros",
+    "version": "2.0.9-1jammy.20260916.055518",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-warehouse-ros/ros-humble-warehouse-ros_2.0.9-1jammy.20260916.055518_arm64.deb",
+    "size": 117632,
+    "sha256": "41ddd18c070882106f7434ca165f791770c1624103f7d05543902e5a1863890d",
+    "filename": "ros-humble-warehouse-ros_2.0.9-1jammy.20260916.055518_arm64.deb"
+  },
+  {
+    "name": "libexpected-dev",
+    "version": "1.0.0~dfsg-2",
+    "architecture": "all",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/universe/t/tl-expected/libexpected-dev_1.0.0%7edfsg-2_all.deb",
+    "size": 16020,
+    "sha256": "b6aa7e265d3f0a3ae10744c00089bb6bb6415b4973d3bbdf04a7f6b86576da92",
+    "filename": "libexpected-dev_1.0.0~dfsg-2_all.deb"
+  },
+  {
+    "name": "ros-humble-srdfdom",
+    "version": "2.0.7-1jammy.20260908.001222",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-srdfdom/ros-humble-srdfdom_2.0.7-1jammy.20260908.001222_arm64.deb",
+    "size": 58478,
+    "sha256": "18c25ad626e9ad971b9e0f38c6ae34897ea8229bce1eab2455d0150038f62f68",
+    "filename": "ros-humble-srdfdom_2.0.7-1jammy.20260908.001222_arm64.deb"
+  },
+  {
+    "name": "ros-humble-joint-state-broadcaster",
+    "version": "2.54.1-1jammy.20261005.194622",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-joint-state-broadcaster/ros-humble-joint-state-broadcaster_2.54.1-1jammy.20261005.194622_arm64.deb",
+    "size": 90194,
+    "sha256": "fbe7645ad6c2a224cbf871ac44c7978b5f9917c3bf262807a7792225f041da6d",
+    "filename": "ros-humble-joint-state-broadcaster_2.54.1-1jammy.20261005.194622_arm64.deb"
+  },
+  {
+    "name": "ros-humble-generate-parameter-library-py",
+    "version": "0.7.7-1jammy.20261005.182145",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-generate-parameter-library-py/ros-humble-generate-parameter-library-py_0.7.7-1jammy.20261005.182145_arm64.deb",
+    "size": 47726,
+    "sha256": "586627343f1a3d4b32577e36b30f04b4d9b43e327403323f993e1783551bee62",
+    "filename": "ros-humble-generate-parameter-library-py_0.7.7-1jammy.20261005.182145_arm64.deb"
+  },
+  {
+    "name": "ros-humble-backward-ros",
+    "version": "1.0.8-2jammy.20260306.212100",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-backward-ros/ros-humble-backward-ros_1.0.8-2jammy.20260306.212100_arm64.deb",
+    "size": 58134,
+    "sha256": "fe9d9915dcd0cb2ba809cd827683b75b4daf55d2349acba9de502ed82c811db5",
+    "filename": "ros-humble-backward-ros_1.0.8-2jammy.20260306.212100_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-ros-planning",
+    "version": "2.5.10-1jammy.20261005.210556",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-ros-planning/ros-humble-moveit-ros-planning_2.5.10-1jammy.20261005.210556_arm64.deb",
+    "size": 1029584,
+    "sha256": "fc92d9c53f16630b36d52fdacf674f0a746a140f2fbc21a68a7007e942bcb2e2",
+    "filename": "ros-humble-moveit-ros-planning_2.5.10-1jammy.20261005.210556_arm64.deb"
+  },
+  {
+    "name": "ros-humble-octomap-msgs",
+    "version": "2.0.1-1jammy.20260907.224844",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-octomap-msgs/ros-humble-octomap-msgs_2.0.1-1jammy.20260907.224844_arm64.deb",
+    "size": 81722,
+    "sha256": "3099468b8d507197c035a717c7c0e58de4581cd5d0387c2b370cdaccf07f32b2",
+    "filename": "ros-humble-octomap-msgs_2.0.1-1jammy.20260907.224844_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-setup-app-plugins",
+    "version": "2.5.10-1jammy.20261005.230111",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-setup-app-plugins/ros-humble-moveit-setup-app-plugins_2.5.10-1jammy.20261005.230111_arm64.deb",
+    "size": 68282,
+    "sha256": "7dee599d450085296b1bcc4cb51f3b064887098eb6fc01ccf69ead6e1f1f49d0",
+    "filename": "ros-humble-moveit-setup-app-plugins_2.5.10-1jammy.20261005.230111_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-setup-assistant",
+    "version": "2.5.10-1jammy.20261005.231514",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-setup-assistant/ros-humble-moveit-setup-assistant_2.5.10-1jammy.20261005.231514_arm64.deb",
+    "size": 281102,
+    "sha256": "8a8e840da3fe5744b30f33bafe7e65b3d9b7f6ba58ef204ee9a0619e0287dc8d",
+    "filename": "ros-humble-moveit-setup-assistant_2.5.10-1jammy.20261005.231514_arm64.deb"
+  },
+  {
+    "name": "python3-babel",
+    "version": "2.8.0+dfsg.1-7",
+    "architecture": "all",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/main/p/python-babel/python3-babel_2.8.0%2bdfsg.1-7_all.deb",
+    "size": 85064,
+    "sha256": "cdb35fba639616a23090ff90d903992a6c4ba109abfed3dd42c9095ead1ef9ae",
+    "filename": "python3-babel_2.8.0+dfsg.1-7_all.deb"
+  },
+  {
+    "name": "ros-humble-joint-trajectory-controller",
+    "version": "2.54.1-1jammy.20261005.194628",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-joint-trajectory-controller/ros-humble-joint-trajectory-controller_2.54.1-1jammy.20261005.194628_arm64.deb",
+    "size": 243160,
+    "sha256": "8eb432579ea9f0ac717d3d301ae5f8c629cec645e72275c70e91feb1a6d45415",
+    "filename": "ros-humble-joint-trajectory-controller_2.54.1-1jammy.20261005.194628_arm64.deb"
+  },
+  {
+    "name": "libqhullcpp8.0",
+    "version": "2020.2-4",
+    "architecture": "arm64",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/universe/q/qhull/libqhullcpp8.0_2020.2-4_arm64.deb",
+    "size": 50714,
+    "sha256": "988bd7df9b12c291609d6f789919dcc3d60189a308200e7f4316f9011a5bf446",
+    "filename": "libqhullcpp8.0_2020.2-4_arm64.deb"
+  },
+  {
+    "name": "ros-humble-tl-expected",
+    "version": "1.3.2-1jammy.20260611.115807",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-tl-expected/ros-humble-tl-expected_1.3.2-1jammy.20260611.115807_arm64.deb",
+    "size": 17434,
+    "sha256": "c6c87b9041c26d7a7a7d6f5ce9f6d9686c968509e4521c25747fa98b7bbb2aaf",
+    "filename": "ros-humble-tl-expected_1.3.2-1jammy.20260611.115807_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-common",
+    "version": "2.5.10-1jammy.20260902.143809",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-common/ros-humble-moveit-common_2.5.10-1jammy.20260902.143809_arm64.deb",
+    "size": 8286,
+    "sha256": "1412f4f3ac820b7a25ca1ab61b8dfd6adeb57935f4ed9ad2277a76c0626f5ab0",
+    "filename": "ros-humble-moveit-common_2.5.10-1jammy.20260902.143809_arm64.deb"
+  },
+  {
+    "name": "ros-humble-controller-manager",
+    "version": "2.54.3-1jammy.20261005.192830",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-controller-manager/ros-humble-controller-manager_2.54.3-1jammy.20261005.192830_arm64.deb",
+    "size": 401360,
+    "sha256": "b033e8d94831f620af758c020c4953ce4328e1d1810bcc76ce86a299a4eb6896",
+    "filename": "ros-humble-controller-manager_2.54.3-1jammy.20261005.192830_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-configs-utils",
+    "version": "2.5.10-1jammy.20260908.001557",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-configs-utils/ros-humble-moveit-configs-utils_2.5.10-1jammy.20260908.001557_arm64.deb",
+    "size": 24918,
+    "sha256": "8bd8611c448acd46b62bd608a9d9504204b78616cd34d49a9516e4600adc3ff5",
+    "filename": "ros-humble-moveit-configs-utils_2.5.10-1jammy.20260908.001557_arm64.deb"
+  },
+  {
+    "name": "libqhull8.0",
+    "version": "2020.2-4",
+    "architecture": "arm64",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/universe/q/qhull/libqhull8.0_2020.2-4_arm64.deb",
+    "size": 193970,
+    "sha256": "b1199d2b85abb718934c036129eb94ab816db498db654c189cd8f33fbee359ac",
+    "filename": "libqhull8.0_2020.2-4_arm64.deb"
+  },
+  {
+    "name": "libqhull-dev",
+    "version": "2020.2-4",
+    "architecture": "arm64",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/universe/q/qhull/libqhull-dev_2020.2-4_arm64.deb",
+    "size": 498652,
+    "sha256": "06ec0f6b595d9a3978d82799356ee6b253df71d3e1b48a5bdd65b298a7c57311",
+    "filename": "libqhull-dev_2020.2-4_arm64.deb"
+  },
+  {
+    "name": "python3-typeguard",
+    "version": "2.2.2-1.1",
+    "architecture": "all",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/universe/p/python-typeguard/python3-typeguard_2.2.2-1.1_all.deb",
+    "size": 13268,
+    "sha256": "b05b153b62358091b2614b285e17f8a2b5e3769831d35324faa6686b35bd1dfb",
+    "filename": "python3-typeguard_2.2.2-1.1_all.deb"
+  },
+  {
+    "name": "ros-humble-robotiq-controllers",
+    "version": "0.0.1-1jammy.20261005.193252",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-robotiq-controllers/ros-humble-robotiq-controllers_0.0.1-1jammy.20261005.193252_arm64.deb",
+    "size": 32746,
+    "sha256": "03e8783755d6138fed55fac765f397528f5cd0da827bf3257ba31ddfe8d15d28",
+    "filename": "ros-humble-robotiq-controllers_0.0.1-1jammy.20261005.193252_arm64.deb"
+  },
+  {
+    "name": "python3-jinja2",
+    "version": "3.0.3-1ubuntu0.4",
+    "architecture": "all",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/main/j/jinja2/python3-jinja2_3.0.3-1ubuntu0.4_all.deb",
+    "size": 108500,
+    "sha256": "b2a7e3b60c849dda14631b9b302640beea762dbfd953c828eec0db64ad755c0c",
+    "filename": "python3-jinja2_3.0.3-1ubuntu0.4_all.deb"
+  },
+  {
+    "name": "ros-humble-generate-parameter-library",
+    "version": "0.7.7-1jammy.20261005.190041",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-generate-parameter-library/ros-humble-generate-parameter-library_0.7.7-1jammy.20261005.190041_arm64.deb",
+    "size": 9572,
+    "sha256": "16f1171b26ed7275301e42195467eb1daae257f4c64192ede43bfd9cdcb11514",
+    "filename": "ros-humble-generate-parameter-library_0.7.7-1jammy.20261005.190041_arm64.deb"
+  },
+  {
+    "name": "ros-humble-control-toolbox",
+    "version": "3.7.1-1jammy.20261005.193045",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-control-toolbox/ros-humble-control-toolbox_3.7.1-1jammy.20261005.193045_arm64.deb",
+    "size": 129094,
+    "sha256": "5329302859ec17b7954fd7e5ee8b7884ab4397e6637c3456405dcb6395a0c68a",
+    "filename": "ros-humble-control-toolbox_3.7.1-1jammy.20261005.193045_arm64.deb"
+  },
+  {
+    "name": "ros-humble-picknik-twist-controller",
+    "version": "0.0.3-1jammy.20261005.192917",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-picknik-twist-controller/ros-humble-picknik-twist-controller_0.0.3-1jammy.20261005.192917_arm64.deb",
+    "size": 96718,
+    "sha256": "7b0fa75069a2ed1e6b05b4915881b875ff6e6dfd4f746c2776736bfc518c2069",
+    "filename": "ros-humble-picknik-twist-controller_0.0.3-1jammy.20261005.192917_arm64.deb"
+  },
+  {
+    "name": "ros-humble-controller-manager-msgs",
+    "version": "2.54.3-1jammy.20261005.182055",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-controller-manager-msgs/ros-humble-controller-manager-msgs_2.54.3-1jammy.20261005.182055_arm64.deb",
+    "size": 207112,
+    "sha256": "d68153c7b8954ce744b689e300f6d25704c7df9697db9eac779e8a8a9f959479",
+    "filename": "ros-humble-controller-manager-msgs_2.54.3-1jammy.20261005.182055_arm64.deb"
+  },
+  {
+    "name": "ros-humble-eigen-stl-containers",
+    "version": "1.1.0-1jammy.20260307.143650",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-eigen-stl-containers/ros-humble-eigen-stl-containers_1.1.0-1jammy.20260307.143650_arm64.deb",
+    "size": 10038,
+    "sha256": "dcce9c6db08ef7e9cb741347413cc6a19fba9734c8e26f93956d043bb0daead8",
+    "filename": "ros-humble-eigen-stl-containers_1.1.0-1jammy.20260307.143650_arm64.deb"
+  },
+  {
+    "name": "ros-humble-rsl",
+    "version": "1.3.0-1jammy.20260908.011850",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-rsl/ros-humble-rsl_1.3.0-1jammy.20260908.011850_arm64.deb",
+    "size": 18410,
+    "sha256": "d9560acc47dfb1c122d3b2512586056585657badb740fbd8f9311bcd25ab523d",
+    "filename": "ros-humble-rsl_1.3.0-1jammy.20260908.011850_arm64.deb"
+  },
+  {
+    "name": "ros-humble-control-msgs",
+    "version": "4.9.0-1jammy.20260907.225307",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-control-msgs/ros-humble-control-msgs_4.9.0-1jammy.20260907.225307_arm64.deb",
+    "size": 456114,
+    "sha256": "9d0264046c600e99b696a36340336f2a112b2efa4fa6ccee2ded985057b8ee96",
+    "filename": "ros-humble-control-msgs_4.9.0-1jammy.20260907.225307_arm64.deb"
+  },
+  {
+    "name": "ros-humble-kinova-gen3-7dof-robotiq-2f-85-moveit-config",
+    "version": "0.2.3-1jammy.20261005.232333",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-kinova-gen3-7dof-robotiq-2f-85-moveit-config/ros-humble-kinova-gen3-7dof-robotiq-2f-85-moveit-config_0.2.3-1jammy.20261005.232333_arm64.deb",
+    "size": 15662,
+    "sha256": "0412d7c2670f795b5e9c11800fb2b8b3b06b94ab84d9ee44da7b5bc39d627006",
+    "filename": "ros-humble-kinova-gen3-7dof-robotiq-2f-85-moveit-config_0.2.3-1jammy.20261005.232333_arm64.deb"
+  },
+  {
+    "name": "ros-humble-parameter-traits",
+    "version": "0.7.7-1jammy.20261005.183243",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-parameter-traits/ros-humble-parameter-traits_0.7.7-1jammy.20261005.183243_arm64.deb",
+    "size": 10712,
+    "sha256": "cda8ded58d748440aedd36865ecb2703ca5fa9526c1e824aa452d8cf17f20401",
+    "filename": "ros-humble-parameter-traits_0.7.7-1jammy.20261005.183243_arm64.deb"
+  },
+  {
+    "name": "ros-humble-launch-param-builder",
+    "version": "0.1.1-1jammy.20260908.000959",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-launch-param-builder/ros-humble-launch-param-builder_0.1.1-1jammy.20260908.000959_arm64.deb",
+    "size": 8312,
+    "sha256": "1e0b0c419b22ed82fa1bcda157faee22cea584417321a53a111002d32766f6d0",
+    "filename": "ros-humble-launch-param-builder_0.1.1-1jammy.20260908.000959_arm64.deb"
+  },
+  {
+    "name": "ros-humble-gripper-controllers",
+    "version": "2.54.1-1jammy.20261005.195120",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-gripper-controllers/ros-humble-gripper-controllers_2.54.1-1jammy.20261005.195120_arm64.deb",
+    "size": 76110,
+    "sha256": "71a82ed8d4b472143bf92fdae8d20324eb322024e7bb54eb5cff5db03f5ce00f",
+    "filename": "ros-humble-gripper-controllers_2.54.1-1jammy.20261005.195120_arm64.deb"
+  },
+  {
+    "name": "ros-humble-object-recognition-msgs",
+    "version": "2.0.0-3jammy.20260907.225206",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-object-recognition-msgs/ros-humble-object-recognition-msgs_2.0.0-3jammy.20260907.225206_arm64.deb",
+    "size": 161670,
+    "sha256": "d5e2f585ce9b8345a9027f8905744d750c2a562b685d3b22402966c95032dfb2",
+    "filename": "ros-humble-object-recognition-msgs_2.0.0-3jammy.20260907.225206_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-ros-visualization",
+    "version": "2.5.10-1jammy.20261005.222841",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-ros-visualization/ros-humble-moveit-ros-visualization_2.5.10-1jammy.20261005.222841_arm64.deb",
+    "size": 666222,
+    "sha256": "2f34298a7b3fc44d9d67aff4008fa0f2c8d48c556936682a27aea1aab5d8b77c",
+    "filename": "ros-humble-moveit-ros-visualization_2.5.10-1jammy.20261005.222841_arm64.deb"
+  },
+  {
+    "name": "ros-humble-controller-interface",
+    "version": "2.54.3-1jammy.20261005.190012",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-controller-interface/ros-humble-controller-interface_2.54.3-1jammy.20261005.190012_arm64.deb",
+    "size": 35128,
+    "sha256": "3c9638282873172970f51988c56a07e5ba50da2804b88a30ce93ef21cafab7e9",
+    "filename": "ros-humble-controller-interface_2.54.3-1jammy.20261005.190012_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-msgs",
+    "version": "2.2.3-1jammy.20260907.225531",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-msgs/ros-humble-moveit-msgs_2.2.3-1jammy.20260907.225531_arm64.deb",
+    "size": 1081536,
+    "sha256": "95aaea089b3dab4d0dc257698352c6515f1293af09ef5374a5791a3519ee016b",
+    "filename": "ros-humble-moveit-msgs_2.2.3-1jammy.20260907.225531_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-ros-planning-interface",
+    "version": "2.5.10-1jammy.20261005.222606",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-ros-planning-interface/ros-humble-moveit-ros-planning-interface_2.5.10-1jammy.20261005.222606_arm64.deb",
+    "size": 248970,
+    "sha256": "24e62f8e9d1b23f2b732a5f8cd9a8d9dc2f9f6d1e21c4ace9450783dfbbf20db",
+    "filename": "ros-humble-moveit-ros-planning-interface_2.5.10-1jammy.20261005.222606_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-setup-core-plugins",
+    "version": "2.5.10-1jammy.20261005.230113",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-setup-core-plugins/ros-humble-moveit-setup-core-plugins_2.5.10-1jammy.20261005.230113_arm64.deb",
+    "size": 59804,
+    "sha256": "6aa4e58873333b245a6ea428dc68239b8d6bbfbd6e510d3f5134b042db710e8f",
+    "filename": "ros-humble-moveit-setup-core-plugins_2.5.10-1jammy.20261005.230113_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-setup-framework",
+    "version": "2.5.10-1jammy.20261005.225725",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-setup-framework/ros-humble-moveit-setup-framework_2.5.10-1jammy.20261005.225725_arm64.deb",
+    "size": 175948,
+    "sha256": "f41482079d7cec08f27e3d933936c1cb137eff9f11c95a60f03f0e5a67ffd9e5",
+    "filename": "ros-humble-moveit-setup-framework_2.5.10-1jammy.20261005.225725_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-ros-occupancy-map-monitor",
+    "version": "2.5.10-1jammy.20261005.205852",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-ros-occupancy-map-monitor/ros-humble-moveit-ros-occupancy-map-monitor_2.5.10-1jammy.20261005.205852_arm64.deb",
+    "size": 227134,
+    "sha256": "e2b1e4517fed87cdaca05f135b42285f18482002b1e55593edbbf099f7c2633e",
+    "filename": "ros-humble-moveit-ros-occupancy-map-monitor_2.5.10-1jammy.20261005.205852_arm64.deb"
+  },
+  {
+    "name": "ros-humble-example-interfaces",
+    "version": "0.9.3-2jammy.20260907.210328",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-example-interfaces/ros-humble-example-interfaces_0.9.3-2jammy.20260907.210328_arm64.deb",
+    "size": 264764,
+    "sha256": "c26725e23490e7f6efa8147d74e045e33be1b236657ce5cf04c53f1d75e74b59",
+    "filename": "ros-humble-example-interfaces_0.9.3-2jammy.20260907.210328_arm64.deb"
+  },
+  {
+    "name": "ros-humble-random-numbers",
+    "version": "2.0.5-1jammy.20260615.120058",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-random-numbers/ros-humble-random-numbers_2.0.5-1jammy.20260615.120058_arm64.deb",
+    "size": 28656,
+    "sha256": "3fa89cbebee8bf8ff85c5f79e35d944e5ed877a005fe6b81ca451c71f4cb3747",
+    "filename": "ros-humble-random-numbers_2.0.5-1jammy.20260615.120058_arm64.deb"
+  },
+  {
+    "name": "ros-humble-moveit-core",
+    "version": "2.5.10-1jammy.20261005.201912",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-moveit-core/ros-humble-moveit-core_2.5.10-1jammy.20261005.201912_arm64.deb",
+    "size": 1100232,
+    "sha256": "355614573f17375c249e5de7f4ae80c1cb655d734c4cae1de0d3a3525b8621e4",
+    "filename": "ros-humble-moveit-core_2.5.10-1jammy.20261005.201912_arm64.deb"
+  },
+  {
+    "name": "ros-humble-tcb-span",
+    "version": "1.3.2-1jammy.20260611.115731",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-tcb-span/ros-humble-tcb-span_1.3.2-1jammy.20260611.115731_arm64.deb",
+    "size": 10886,
+    "sha256": "bccf40a51342630e45fe0c9eaaabb7a5ed94d783aae621913b8ac8866d319b33",
+    "filename": "ros-humble-tcb-span_1.3.2-1jammy.20260611.115731_arm64.deb"
+  },
+  {
+    "name": "ros-humble-pilz-industrial-motion-planner",
+    "version": "2.5.10-1jammy.20261005.222840",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-pilz-industrial-motion-planner/ros-humble-pilz-industrial-motion-planner_2.5.10-1jammy.20261005.222840_arm64.deb",
+    "size": 1559026,
+    "sha256": "3654f7bc843b746f8b94a5f8f8abf439e0e7b9c60d663e3496e45629e8b4e24e",
+    "filename": "ros-humble-pilz-industrial-motion-planner_2.5.10-1jammy.20261005.222840_arm64.deb"
+  },
+  {
+    "name": "ros-humble-pick-ik",
+    "version": "1.1.2-2jammy.20261005.210651",
+    "architecture": "arm64",
+    "uri": "http://packages.ros.org/ros2/ubuntu/pool/main/r/ros-humble-pick-ik/ros-humble-pick-ik_1.1.2-2jammy.20261005.210651_arm64.deb",
+    "size": 100696,
+    "sha256": "d2e2834991584f9b772f8be75b4a8769acc0550038b0931a3100e2f4c430c8e7",
+    "filename": "ros-humble-pick-ik_1.1.2-2jammy.20261005.210651_arm64.deb"
+  },
+  {
+    "name": "librange-v3-dev",
+    "version": "0.11.0-2",
+    "architecture": "all",
+    "uri": "http://ports.ubuntu.com/ubuntu-ports/pool/universe/r/range-v3/librange-v3-dev_0.11.0-2_all.deb",
+    "size": 214536,
+    "sha256": "55be1a88037ba1b4ae8e829ced46c527ff8daf4a504898760a89d6fb63aca639",
+    "filename": "librange-v3-dev_0.11.0-2_all.deb"
+  }
+]
