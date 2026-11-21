@@ -1,0 +1,150 @@
+{
+  "human_derived": "order and image-right source to image-left destination only; +Y robot mapping assumed",
+  "dimensions_mass_friction_all_assumed": true,
+  "rigid_boxes_not_soft_food": true,
+  "food_appearance": "Original COLLADA food meshes: crust/porous crumb, seeded tomato cut face, perforated cheese. Rendering geometry only.",
+  "food_collision_shapes": "Thin rigid boxes matching rendered thickness; visible holes/rounded outlines do not change contact surfaces.",
+  "food": {
+    "bread_bottom": {
+      "size": [
+        0.05,
+        0.07,
+        0.011
+      ],
+      "xyz": [
+        0.55,
+        0,
+        0.4235
+      ],
+      "mass": 0.0055,
+      "color": "0.85 0.55 0.25 1"
+    },
+    "tomato": {
+      "size": [
+        0.05,
+        0.06,
+        0.006
+      ],
+      "xyz": [
+        0.42,
+        -0.16,
+        0.42
+      ],
+      "mass": 0.00257,
+      "color": "0.85 0.08 0.06 1"
+    },
+    "cheese": {
+      "size": [
+        0.05,
+        0.06,
+        0.005
+      ],
+      "xyz": [
+        0.57,
+        -0.16,
+        0.4195
+      ],
+      "mass": 0.00171,
+      "color": "0.95 0.8 0.12 1"
+    },
+    "bread_top": {
+      "size": [
+        0.05,
+        0.07,
+        0.011
+      ],
+      "xyz": [
+        0.55,
+        0,
+        0.4125
+      ],
+      "mass": 0.0055,
+      "color": "0.85 0.55 0.25 1"
+    }
+  },
+  "debug_initial_stack": false,
+  "supports": {
+    "table": [
+      [
+        1.6,
+        1.2,
+        0.4
+      ],
+      [
+        0.4,
+        0,
+        0.2
+      ]
+    ],
+    "source_plate": [
+      [
+        0.34,
+        0.3,
+        0.006
+      ],
+      [
+        0.51,
+        -0.08,
+        0.403
+      ]
+    ],
+    "tomato_rest": [
+      [
+        0.024,
+        0.046,
+        0.01
+      ],
+      [
+        0.42,
+        -0.16,
+        0.411
+      ]
+    ],
+    "cheese_rest": [
+      [
+        0.024,
+        0.046,
+        0.01
+      ],
+      [
+        0.57,
+        -0.16,
+        0.411
+      ]
+    ],
+    "destination_plate": [
+      [
+        0.18,
+        0.18,
+        0.006
+      ],
+      [
+        0.55,
+        0.3,
+        0.403
+      ]
+    ]
+  },
+  "friction": 0.8,
+  "tool_quaternion_xyzw": [
+    1,
+    0,
+    0,
+    0
+  ],
+  "grasp_tool_height_above_item_bottom_m": {
+    "bread": 0.161,
+    "toppings": 0.154
+  },
+  "transport_tool_height_m": 0.76,
+  "release_clearance_above_support_m": {
+    "bread": 0.005,
+    "toppings": 0.009
+  },
+  "anchored_robot_base_height_m": 0.401,
+  "mount_clearance_above_table_m": 0.001,
+  "planning_payload": "No attached collision object; held world proxy removed to prevent stale obstacle. Physics contacts retained.",
+  "bread_stack": "upper source slice called bread_bottom because it becomes sandwich base",
+  "trays": "flat 6mm shallow plate proxies without lips",
+  "joint_controller": "unchanged validated vendor/controller configuration"
+}

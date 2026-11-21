@@ -132,3 +132,7 @@ sudo; no credential is stored by project scripts.
    evidence. Rendering/camera acquisition is a later gate, not enabled initially.
 3. Evaluate repeated and perturbed starts and keep clean successful episodes.
 4. Assess official GR00T 2 dataset/training requirements separately when available.
+
+## Sandwich assembly
+
+Watch the [synchronized human and Gazebo comparison](experiments/sandwich_codex_experiment/media/sandwich-comparison.mp4) or read the [experiment results](experiments/sandwich_codex_experiment/RESULTS.md).

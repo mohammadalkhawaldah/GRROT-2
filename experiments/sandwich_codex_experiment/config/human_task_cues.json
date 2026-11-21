@@ -1,0 +1,62 @@
+{
+  "provenance": "manual visual review; not contact-verified",
+  "robot_timing": "slower assumed safety minima; not exact human timing",
+  "ingredients": {
+    "bread_bottom": {
+      "events_s": {
+        "approach_window_start": 9.5,
+        "estimated_pickup": 12.9,
+        "estimated_release": 15.0
+      },
+      "normalized_events": {
+        "approach_window_start": 0.0,
+        "estimated_pickup": 0.08607594936708862,
+        "estimated_release": 0.13924050632911392
+      },
+      "approximate_human_carry_s": 2.0999999999999996,
+      "programmed_min_transport_s": 7.0
+    },
+    "tomato": {
+      "events_s": {
+        "approach_window_start": 19.3,
+        "estimated_pickup": 21.2,
+        "estimated_release": 26.0
+      },
+      "normalized_events": {
+        "approach_window_start": 0.24810126582278483,
+        "estimated_pickup": 0.2962025316455696,
+        "estimated_release": 0.4177215189873418
+      },
+      "approximate_human_carry_s": 4.800000000000001,
+      "programmed_min_transport_s": 9.600000000000001
+    },
+    "cheese": {
+      "events_s": {
+        "approach_window_start": 31.6,
+        "estimated_pickup": 33.3,
+        "estimated_release": 37.0
+      },
+      "normalized_events": {
+        "approach_window_start": 0.5594936708860759,
+        "estimated_pickup": 0.6025316455696201,
+        "estimated_release": 0.6962025316455697
+      },
+      "approximate_human_carry_s": 3.700000000000003,
+      "programmed_min_transport_s": 7.400000000000006
+    },
+    "bread_top": {
+      "events_s": {
+        "approach_window_start": 42.0,
+        "estimated_pickup": 44.7,
+        "estimated_release": 49.0
+      },
+      "normalized_events": {
+        "approach_window_start": 0.8227848101265823,
+        "estimated_pickup": 0.8911392405063292,
+        "estimated_release": 1.0
+      },
+      "approximate_human_carry_s": 4.299999999999997,
+      "programmed_min_transport_s": 8.599999999999994
+    }
+  }
+}

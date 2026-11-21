@@ -1,0 +1,55 @@
+{
+  "task": "assemble simplified sandwich from human demo in Gazebo Fortress",
+  "human_demonstration": {
+    "fps": 30,
+    "resolution_px": [
+      1920,
+      1080
+    ],
+    "frames": 1637,
+    "duration_s_approx": 54.57,
+    "camera": "fixed, oblique view",
+    "camera_calibration_available": false
+  },
+  "robot": {
+    "arm": "existing working Kinova from cup-drag project",
+    "gripper": "existing Robotiq parallel jaw",
+    "controller": "reuse validated ROS 2 / Gazebo controllers",
+    "geometry_source": "existing robot URDF/Xacro on Jetson; do not replace"
+  },
+  "scene": {
+    "required_objects": [
+      "table",
+      "left destination plate or shallow tray",
+      "right source plate",
+      "bottom bread proxy",
+      "tomato proxy",
+      "cheese proxy",
+      "top bread proxy"
+    ],
+    "rigid_body_proxies": true,
+    "fruit_soft_body_simulated": false,
+    "tool_attachments_allowed": false,
+    "object_dimensions_m": null,
+    "table_height_m": null,
+    "camera_extrinsics": null,
+    "notes": "Measure or choose and explicitly report physical assumptions; never infer exact world coordinates, dimensions, or grasp height from CSV pixels."
+  },
+  "required_order": [
+    "bottom bread -> left plate",
+    "tomato -> bottom bread",
+    "cheese -> tomato",
+    "top bread -> cheese"
+  ],
+  "input_events_file": "data/derived/sandwich_ingredient_events_review.csv",
+  "object_keyframes_file": "data/derived/sandwich_object_keyframes_review.csv",
+  "success_conditions": [
+    "4 steps executed in correct order",
+    "each required item grasped with two-jaw physical contact and moved via Gazebo physics",
+    "correct stack order on target plate",
+    "gripper released each item and contacts cleared",
+    "no teleporting, fixed joints, kinematic attaching, or direct object pose scripting",
+    "log observed object final positions and task outcomes"
+  ],
+  "claim_limit": "First demo is human-guided trajectory retargeting, not trained autonomy, closed-loop policy or general cross-robot learning."
+}
